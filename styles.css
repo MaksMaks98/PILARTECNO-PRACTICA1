@@ -25,6 +25,10 @@ button {
   border-radius: 5px;
 }
 
+h1 {
+  color: #2eaba4;
+}
+
 button:hover {
   background: #063634;
 }
