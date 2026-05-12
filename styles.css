@@ -1,20 +1,20 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #1e1e2f;
+  background: #06191e;
 
   display: flex;
   justify-content: center;
   align-items: center;
-
   height: 100vh;
 }
 
 .container {
-  background: white;
+  background: rgb(222, 231, 231);
   padding: 30px;
   border-radius: 10px;
   text-align: center;
+  box-shadow: #000000 0px 0px 20px -5px;
 }
 
 button {
